@@ -1,1 +1,1 @@
-This folder is created for learning purposes in line with the ALX SE program-C intro.
+This is for learning purposes containing scripts for each task.
