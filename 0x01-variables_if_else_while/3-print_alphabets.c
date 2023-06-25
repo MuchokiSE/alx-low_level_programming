@@ -15,11 +15,11 @@ int main(void)
 	putchar(c);
 	}
 
-	char C = 'A';
+	char k = 'A';
 
-	for ( ; C <= 'Z'; C++)
+	for ( ; k <= 'Z'; k++)
 	{
-	putchar(C);
+	putchar(k);
 	}
 
 	putchar('\n');
