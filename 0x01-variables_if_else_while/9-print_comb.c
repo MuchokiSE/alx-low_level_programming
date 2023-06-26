@@ -11,7 +11,7 @@ int main(void)
 	int i = 0;
 	int j = 0;
 
-	for ( ; i < 10, j < 10; i++, j++)
+	for ( ; i < 10; i++)
 	{
 		for ( ; j < 10; j++)
 		{
