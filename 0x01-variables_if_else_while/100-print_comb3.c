@@ -16,15 +16,19 @@ int main(void)
 	int j = (i / 10);
 	int k = (i % 10);
 
-	putchar(j + '0');
-	putchar(k + '0');
-
-		if (i < 99)
+		if (k < j)
 		{
-		putchar(',');
-		putchar(' ');
+		putchar(j + '0');
+		putchar(k + '0');
+
+			if (i < 89)
+			{
+			putchar(',');
+			putchar(' ');
+			}
 		}
 	}
+
 	putchar('\n');
 
 	return (0);
