@@ -32,7 +32,7 @@ int main(void)
 			putchar(y + '0');
 			putchar(z + '0');
 
-				if (w != 9 && x != 8)
+				if (!(w == 9 && x == 8))
 				{
 				putchar(',');
 				putchar(' ');
