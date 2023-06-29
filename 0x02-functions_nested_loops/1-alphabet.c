@@ -1,8 +1,6 @@
 #include "main.h"
 /**
- * main - entry point
- *
- * description - prints the alphabet, in lcase. Excl std libraries.
+ * print_alphabet - prints the alphabet, in lcase. Excl std libraries.
  */
 void print_alphabet(void)
 {
