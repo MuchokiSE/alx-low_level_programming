@@ -19,14 +19,18 @@ void times_table(void)
 			_putchar(k + '0');
 			}
 
-			else
+			else if (j != 9)
 			{
 			_putchar(',');
 			_putchar(' ');
 			_putchar(k + '0');
 			}
-		_putchar('\n');
+
+			else
+			{
+			_putchar(k + '0');
+			_putchar('\n');
+			}
 		}
 	}
 }
-
