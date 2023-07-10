@@ -3,7 +3,6 @@
  * print_most_numbers - prints nos. 0-9
  * except 2 & 4, followed by a new line
  *
- *@i: integer value
  */
 void print_most_numbers(void)
 {
