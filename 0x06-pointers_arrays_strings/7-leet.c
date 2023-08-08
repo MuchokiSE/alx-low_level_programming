@@ -13,7 +13,7 @@
  * use only 2 loops in the code
  * not to use 'switch'
  *
- *@str: character value
+ *@str: string input value
  *
  * Return: 0.
  */
