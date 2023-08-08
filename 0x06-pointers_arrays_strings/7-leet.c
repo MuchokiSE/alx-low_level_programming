@@ -3,19 +3,9 @@
 /**
  * *leet - encodes a string into 1337.
  *
- * letters 'a' and 'A' should be replaced by 4
- * letters 'e' and 'E' should be replaced by 3
- * letters 'o' and 'O' should be replaced by 0
- * letters 't' and 'T' should be replaced by 7
- * letters 'l' and 'L' should be replaced by 1
- *
- * use one 'if' in the code
- * use only 2 loops in the code
- * not to use 'switch'
- *
  *@str: string input value
  *
- * Return: 0.
+ * Return: str value.
  */
 
 char *leet(char *str)
